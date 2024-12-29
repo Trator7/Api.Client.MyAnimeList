@@ -12,8 +12,8 @@ dotnet add package Api.Client.MyAnimeList
 
 Some usefull links are:
 	
-	- How to get a token: https://myanimelist.net/blog.php?eid=835707
-	- API documentation: https://myanimelist.net/apiconfig/references/api/v2
+- [How to get a token](https://myanimelist.net/blog.php?eid=835707)
+- [API documentation](https://myanimelist.net/apiconfig/references/api/v2)
 
 
 Many examples can be found under Test.MyAnimeListApi project.
